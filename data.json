@@ -223,6 +223,79 @@
 
       }    
   ]
-  }    
+  },
+        {
+    "series_name":"Big Bash League",
+    "series_code":"BBL",
+    "number_teams":8,
+    "team_list":["MS","AS","BH","HH","MR","PS","SS","ST"],
+    "teams": [
+      {
+          "team_name":"MS",
+          "players_name":["Hilton Cartwright","Jackson Coleman","Nathan Coulter-Nile","Ben Dunk","Andre Fletcher","Seb Gotch","Liam Hatcher","Clint Hinchliffe","Dilbar Hussain","Zahir Khan"," Nick Larkin","Nic Maddinson","Glenn Maxwell","Jono Merlo","Lance Morris","Tom O'Connell","Nicholas Pooran"," Will Pucovski","Billy Stanlake","Marcus Stoinis","Adam Zampa"],
+          "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "players_id":[457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477]
+      }
+      ,
+      {
+          "team_name":"AS",
+          "players_name":["Danny Briggs","Wes Agar","Alex Carey","Harry Conway","Travis Head","Spencer Johnson","Rashid Khan"," Michael Neser","Harry Nielsen","Liam O'Connor","Matt Renshaw","Phil Salt","Liam Scott","Matt Short","Peter Siddle","Cameron Valente","Jake Weatherald","Daniel Worrall","Jon Wells"],
+          "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+          "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "players_id":[481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499]
+      },
+      {
+        "team_name":"BH",
+        "players_name":["Xavier Bartlett","James Bazley","Max Bryant","Joe Burns","Tom Cooper","Lewis Gregory","Sam Heazlett"," Matthew Kuhnemann","Marnus Labuschagne","Ben Laughlin","Dan Lawrence","Chris Lynn","Simon Milenko","Morne Morkel","Jimmy Peirson","Lachlan Pfeffer","Mujeeb Ur Rahman","Mark Steketee","Mitch Swepson","Jack Wildermuth","Matthew Willans","Jack Wood"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "players_id":[500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521]
+      },
+      {
+        "team_name":"HH",
+        "players_name":["Scott Boland","Johan Botha","Tim David","Jake Doran","Nathan Ellis","James Faulkner","Peter Handscomb"," Colin Ingram","Will Jacks","Caleb Jewell","Sandeep Lamichhane","Dawid Malan","Ben McDermott","Riley Meredith","David Moody","Mitch Owen","Wil Parker","Keemo Paul"," D'Arcy Short","Matthew Wade","Charlie Wakim","Nick Winter","Mac Wright"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "players_id":[522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544]
+      },
+      {
+        "team_name":"MR",
+        "players_name":["Noor Ahmad","Cameron Boyce","Brody Couch","Zak Evans","Aaron Finch","Jake Fraser-McGurk","Sam Harper"," Marcus Harris","Mackenzie Harvey","Peter Hatzoglou","Jon Holland","Benny Howell","Josh Lalor","Shaun Marsh","Mohammad Nabi","James Pattinson","Mitch Perry","Jack Prestwidge","Kane Richardson","Rilee Rossouw","Will Sutherland","Imran Tahir","Imad Wasim"," Beau Webster"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "players_id":[545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568]
+      },
+      {
+        "team_name":"PS",
+        "players_name":["Ashton Agar","Fawad Ahmed","Cameron Bancroft","Jason Behrendorff","Joe Clarke","Cameron Gannon","Cameron Green","Aaron Hardie","Josh Inglis","Matthew Kelly","Liam Livingstone","Mitchell Marsh","Colin Munro","Joel Paris","Kurtis Patterson","Jhye Richardson","Jason Roy"," Ashton Turner","Andrew Tye","Sam Whiteman"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_id":[569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588]
+      },
+      {
+        "team_name":"SS",
+        "players_name":["Sean Abbott","Nick Bertus","Carlos Brathwaite","Jackson Bird","Dan Christian","Ben Dwarshuis","Jack Edwards","Mickey Edwards","Moises Henriques","Jason Holder","Daniel Hughes","Hayden Kerr","Nathan Lyon","Ben Manenti","Lawrence Neil-Smith","Steve O'Keefe","Josh Philippe","Lloyd Pope","Tom Rogers","Gurinder Sandhu","Jordan Silk","Mitchell Starc","James Vince"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "players_id":[589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611]
+      },
+      {
+        "team_name":"ST",
+        "players_name":["Sam Billings","Jonathan Cook","Ben Cutting","Oliver Davies","Brendan Doggett","Callum Ferguson","Matt Gilkes","Chris Green","Alex Hales","Baxter Holt","Usman Khawaja","Nathan McAndrew","Adam Milne","Arjun Nair","Alex Ross","Daniel Sams","Jason Sangha","Tanveer Sangha","Chris Tremain"],
+        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "players_id":[612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630]
+      }
+  ]
+  }
   ]
 }
