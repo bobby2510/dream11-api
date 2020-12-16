@@ -296,6 +296,32 @@
          "players_id":[612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630]
       }
   ]
+  },
+        {
+    "series_name":"NZ vs PAK",
+    "series_code":"NVP",
+    "number_teams":2,
+    "team_list":["NZ","PAK"],
+    "teams":  [
+      {
+          "team_name":"NZ",
+          "players_name":["G Phillips","T Seifert","M Guptill","D Conway","M Chapman","M Santner","J Neesham","S Kuggeleijn","I Sodhi","D Bracewell","B Tickner","J Duffy","T Astle"],
+          "players_role":[1,1,2,2,2,3,3,3,4,4,4,4,4],
+          "players_credits":[9.5,8.5,10,9.5,8.5,9.5,9,8.5,8.5,8.5,8,8,8],
+          "players_image":[631,632,633,634,635,636,637,638,639,640,641,642,643],
+          "players_id":[631,632,633,634,635,636,637,638,639,640,641,642,643]
+      }
+      ,
+      {
+          "team_name":"PAK",
+          "players_name":["S Ahmed","M Rizwan","B Azam","H Talat","H Ali","Khushdil-Shah","A Shafiq","M Hafeez","I Wasim","Iftikhar-Ahmed","S Khan","W Riaz","S Afridi","U Qadir","M Hasnain","H Rauf","F Ashraf","M Khan"],
+          "players_role":[1,1,2,2,2,2,2,3,3,3,3,4,4,4,4,4,4,4],
+          "players_credits":[9,8.5,10.5,8.5,8.5,8,8,9.5,8.5,8.5,8.5,9,9,8.5,8.5,8.5,8.5,8],
+          "players_image":[644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661],
+          "players_id":[644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661]
+
+      }    
+  ]
   }
   ]
 }
