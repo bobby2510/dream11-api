@@ -174,76 +174,76 @@
   },
    
       
-        {
+     {
     "series_name":"Big Bash League",
-    "series_code":"BBL",
+    "series_code":"KFC_BBL",
     "number_teams":8,
     "team_list":["MS","AS","BH","HH","MR","PS","SS","ST"],
     "teams": [
       {
           "team_name":"MS",
-          "players_name":["Hilton Cartwright","Jackson Coleman","Nathan Coulter-Nile","Ben Dunk","Andre Fletcher","Seb Gotch","Liam Hatcher","Clint Hinchliffe","Dilbar Hussain","Zahir Khan"," Nick Larkin","Nic Maddinson","Glenn Maxwell","Jono Merlo","Lance Morris","Tom O'Connell","Nicholas Pooran"," Will Pucovski","Billy Stanlake","Marcus Stoinis","Adam Zampa"],
-          "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-          "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "players_id":[457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477]
+          "players_name":["B Dunk","A Fletcher","H Cartwright","G Maxwell","N Pooran","N Larkin","N Coulter-Nile","A Zampa","L Hatcher","B Stanlake","Z Khan","C Hinchliffe","L Morris","D Hussain","S Gotch","J Coleman","M Stoinis","W Pucovski","N Maddinson","TO Connell","H Rauf"],
+          "players_role":[1,2,2,3,1,2,4,4,4,4,4,4,4,4,1,4,3,2,2,4,4],
+          "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+          "players_image":[858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878],
+          "players_id":[858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878]
       }
       ,
       {
           "team_name":"AS",
-          "players_name":["Danny Briggs","Wes Agar","Alex Carey","Harry Conway","Travis Head","Spencer Johnson","Rashid Khan"," Michael Neser","Harry Nielsen","Liam O'Connor","Matt Renshaw","Phil Salt","Liam Scott","Matt Short","Peter Siddle","Cameron Valente","Jake Weatherald","Daniel Worrall","Jon Wells"],
-          "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-          "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-          "players_id":[481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499]
+          "players_name":["P Salt","J Weatherald","M Renshaw","A Carey","J Wells","M Short","R Khan","D Worrall","D Briggs","W Agar","P Siddle","H Conway","R Gibson","M Neser","H Nielsen","C Valente","LO Conner","L Scott","S Johnson","T Head"],
+          "players_role":[2,2,3,1,2,3,4,4,4,4,4,4,2,3,1,3,4,3,4,2],
+          "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+          "players_image":[743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762],
+          "players_id":[743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759,760,761,762]
       },
       {
         "team_name":"BH",
-        "players_name":["Xavier Bartlett","James Bazley","Max Bryant","Joe Burns","Tom Cooper","Lewis Gregory","Sam Heazlett"," Matthew Kuhnemann","Marnus Labuschagne","Ben Laughlin","Dan Lawrence","Chris Lynn","Simon Milenko","Morne Morkel","Jimmy Peirson","Lachlan Pfeffer","Mujeeb Ur Rahman","Mark Steketee","Mitch Swepson","Jack Wildermuth","Matthew Willans","Jack Wood"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "players_id":[500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521]
+        "players_name":["M Brynant","S Heaziett","J Wildermuth","T Cooper","L Gregory","J Peirson","J Bazley","S Milenko","M Steketee","X Bartlett","M Ur Rahman","M Kuhnemann","J Sinfield","M Labuschane","L Pfeffer","B Laughlin","C Sully","D Lawrence","J Denly","C Lynn","M Williams","M Swepson","M Morkel","J Burns","J Wood"],
+        "players_role":[2,2,3,2,3,1,3,3,4,4,4,4,3,2,1,4,4,3,2,2,4,4,4,2,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833],
+         "players_id":[809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833]
       },
       {
         "team_name":"HH",
-        "players_name":["Scott Boland","Johan Botha","Tim David","Jake Doran","Nathan Ellis","James Faulkner","Peter Handscomb"," Colin Ingram","Will Jacks","Caleb Jewell","Sandeep Lamichhane","Dawid Malan","Ben McDermott","Riley Meredith","David Moody","Mitch Owen","Wil Parker","Keemo Paul"," D'Arcy Short","Matthew Wade","Charlie Wakim","Nick Winter","Mac Wright"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "players_id":[522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544]
+        "players_name":["D Short","D Malan","B McDermott","P Handscomb","C Ingram","T David","K Paul","N Ellis","S Boland","W Parker","R Meredith","M Wright","N Winter","M Wade","C Wakim","M Owen","D Moody","J Botha","W Jacks","J Doran","J Faulkner","S Lamichhane","C Jewell","T Paine"],
+        "players_role":[3,2,2,1,2,2,3,4,4,4,4,2,4,1,2,2,4,4,2,2,3,4,2,1],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808],
+         "players_id":[785,786,787,788,789,790,791,792,793,794,795,796,797,798,799,800,801,802,803,804,805,806,807,808]
       },
       {
         "team_name":"MR",
-        "players_name":["Noor Ahmad","Cameron Boyce","Brody Couch","Zak Evans","Aaron Finch","Jake Fraser-McGurk","Sam Harper"," Marcus Harris","Mackenzie Harvey","Peter Hatzoglou","Jon Holland","Benny Howell","Josh Lalor","Shaun Marsh","Mohammad Nabi","James Pattinson","Mitch Perry","Jack Prestwidge","Kane Richardson","Rilee Rossouw","Will Sutherland","Imran Tahir","Imad Wasim"," Beau Webster"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "players_id":[545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568]
+        "players_name":["A Finch","S Marsh","S Harper","R Rossouw","M Nabi","M Harvey","I Wasim","W Sutherland","K Richardson","P Hatzoglou","M Perry","B Webster","J Prestwidge","C Boyce","I Tahir","Z Evans","J Pattinson","J Holland","J Lalor","B Howell","M Harris","N Ahmad","J Fraser-McGurk","B Couch"],
+        "players_role":[2,2,1,2,3,2,3,3,4,4,4,3,4,4,4,4,4,4,4,3,2,4,2,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723],
+         "players_id":[700,701,702,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,718,719,720,721,722,723]
       },
       {
         "team_name":"PS",
-        "players_name":["Ashton Agar","Fawad Ahmed","Cameron Bancroft","Jason Behrendorff","Joe Clarke","Cameron Gannon","Cameron Green","Aaron Hardie","Josh Inglis","Matthew Kelly","Liam Livingstone","Mitchell Marsh","Colin Munro","Joel Paris","Kurtis Patterson","Jhye Richardson","Jason Roy"," Ashton Turner","Andrew Tye","Sam Whiteman"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_id":[569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588]
+        "players_name":["J Inglis","J Roy","L Livingstone","C Munro","M Marsh","A Turner","A Hardie","J Richardson","A Tye","J Behrendorff","F Ahmed","K Patterson","J Paris","A Agar","C Gannon","C Rocchiccioli","M Kelly","C Green","C Bancroft","J Clarke","L Guthrie","S Whiteman"],
+        "players_role":[1,2,3,2,3,2,3,4,4,4,4,2,4,4,4,4,4,2,2,2,4,1],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784],
+        "players_id":[763,764,765,766,767,768,769,770,771,772,773,774,775,776,777,778,779,780,781,782,783,784]
       },
       {
         "team_name":"SS",
-        "players_name":["Sean Abbott","Nick Bertus","Carlos Brathwaite","Jackson Bird","Dan Christian","Ben Dwarshuis","Jack Edwards","Mickey Edwards","Moises Henriques","Jason Holder","Daniel Hughes","Hayden Kerr","Nathan Lyon","Ben Manenti","Lawrence Neil-Smith","Steve O'Keefe","Josh Philippe","Lloyd Pope","Tom Rogers","Gurinder Sandhu","Jordan Silk","Mitchell Starc","James Vince"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "players_id":[589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611]
+        "players_name":["J Philippe","J Edwards","J VInce","D Hughes","J Silk","D Christian","J Holder","C Brathwaite","B Dwarshuis","S O Keefe","B Manenti","G Sandhu","J Avendano","J Ball","M Henriques","J Bird","H Kerr","L Neil-Smith","L Pope","M Starc","N Lyon","S Abbott","N Bertus","T Rogers"],
+        "players_role":[1,2,2,2,2,3,3,3,4,4,4,4,2,4,3,4,3,4,4,4,4,4,1,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857],
+         "players_id":[834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857]
       },
       {
         "team_name":"ST",
-        "players_name":["Sam Billings","Jonathan Cook","Ben Cutting","Oliver Davies","Brendan Doggett","Callum Ferguson","Matt Gilkes","Chris Green","Alex Hales","Baxter Holt","Usman Khawaja","Nathan McAndrew","Adam Milne","Arjun Nair","Alex Ross","Daniel Sams","Jason Sangha","Tanveer Sangha","Chris Tremain"],
-        "players_role":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-        "players_credits":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-        "players_image":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "players_id":[612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630]
+        "players_name":["U Khawaja","A Hales","C Ferguson","O Davies","S Billings","D Sams","B Cutting","C Green","C Tremain","T Sangha","N McAndrew","B Dogett","A Ross","M Gilkes","A Milne","A Nair","J Sangha","J Cook","B Holt"],
+        "players_role":[2,2,2,3,1,3,3,3,4,4,4,4,2,1,4,4,2,4,1],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742],
+         "players_id":[724,725,726,727,728,729,730,731,732,733,734,735,736,737,738,739,740,741,742]
       }
   ]
   },
@@ -271,6 +271,63 @@
           "players_id":[644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,674,675,676,677,678,679,680,681,682,683,684]
 
       }    
+  ]
+  },
+        {
+    "series_name":"KFC SUPER SMASH MEN",
+    "series_code":"SS_M",
+    "number_teams":6,
+    "team_list":["NK","WEL","CD","AUC","OTA","CTB"],
+    "teams": [
+      {
+          "team_name":"NK",
+          "players_name":["T Seifert","K Clarke","D Brownlie","A Devicich","H Cooper","B Hampton","S Kuggeleijn","Z Gibson","J Walker","B Randell","F Walker","P Bocock","J Raval","K Williamson","M Santner","I Carter","I Sodhi","J Baker","B Watling","M Fisher","N Wagner","T Southee","T Boult","A Verma"],
+          "players_role":[1,2,2,3,2,3,3,4,4,4,4,1,2,2,3,2,4,4,1,4,4,4,4,4],
+          "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+          "players_image":[900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923],
+          "players_id":[900,901,902,903,904,905,906,907,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923]
+      }
+      ,
+      {
+          "team_name":"WEL",
+          "players_name":["F Allen","D Conway","R Ravindra","J Neesham","M Bracewell","J Gibson","T Johnson","L vanBeek","P Youghusband","B Sears","H Bennett","T Blundell","F Colson","J Bhula","I McPeake","J Hartshorn","A Fletcher","M Snedden","O Newton","L Johns"],
+          "players_role":[3,2,3,3,2,3,2,4,4,4,4,1,2,2,4,4,2,4,4,1],
+          "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+          "players_image":[924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943],
+          "players_id":[924,925,926,927,928,929,930,931,932,933,934,935,936,937,938,939,940,941,942,943]
+      },
+      {
+        "team_name":"CD",
+        "players_name":["G Worker","B Wiggins","D Cleaver","T Bruce","J Clarkson","K Noema-Barnett","D Barcewell","C Leopard","J Field","A Patel","B Tickner","B Schmulian","G Hay","A Milne","R Taylor","B Wheeler","B Smith","F Murray","J Lennox","W Young","R Toole","S Rance"],
+        "players_role":[3,1,1,2,3,3,3,2,4,4,4,3,2,4,2,4,2,4,4,2,4,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965],
+         "players_id":[944,945,946,947,948,949,950,951,952,953,954,955,956,957,958,959,960,961,962,963,964,965]
+      },
+      {
+        "team_name":"AUC",
+        "players_name":["G Beghin","S Solia","WO Donnell","RO Donnell","B Horne","B Rodden","W Somerville","O Pringle","G Phillips","B Lister","B Lister","D Ferns","C Munro","R Harrison","L Delport","M McEwan","M Chapman","R ter Braak","J Brown"],
+        "players_role":[2,3,2,2,1,2,4,4,1,4,3,2,3,4,4,2,4,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,981,982,983],
+         "players_id":[966,967,968,969,970,971,972,973,974,975,976,977,978,979,980,981,982,983]
+      },
+      {
+        "team_name":"OTA",
+        "players_name":["M Renwick","N Kelly","N Broom","J Finnie","A Kitchen","H Rutherford","M McClenaghan","M Bacon","M Rippon","L Johnson","J Duffy","M Chu","C Hawkins","D Foxcroft","J Mckay","D Phillips","M Rae","N Smith","T Muller"],
+        "players_role":[1,2,2,2,3,2,4,4,3,2,4,1,2,3,4,2,4,3,4],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[984,985,986,987,988,989,990,991,992,993,994,995,996,997,998,999,1000,1001,1002],
+         "players_id":[984,985,986,987,988,989,990,991,992,993,994,995,996,997,998,999,1000,1001,1002]
+      },
+      {
+        "team_name":"CTB",
+        "players_name":["C McConchie","T Astle","C Bowes","J Boyle","L Carter","C Fletcher","M Hay","M Henry","K McClure","E Nuttall","W Williams","T Latham","A Hazeldine","D Mitchell","F Sheat","J Latham","H Nicholls","S Davey","T van Woerkom","T Lortan"],
+        "players_role":[3,3,2,2,2,1,3,4,2,4,4,1,4,3,4,4,4,2,4,4,2],
+        "players_credits":[9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9],
+        "players_image":[1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023],
+        "players_id":[1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023]
+      }
   ]
   }
   ]
