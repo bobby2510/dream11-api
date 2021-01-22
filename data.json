@@ -145,35 +145,7 @@
           "players_id":[165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186]
         }
     ]
-    },
-    {
-    "series_name":"Ind vs Aus",
-    "series_code":"IVA",
-    "number_teams":2,
-    "team_list":["IND","AUS"],
-    "teams":  [
-      {
-          "team_name":"IND",
-          "players_name":["Virat Kohli", "Mayank Agarwal", "Prithvi Shaw", "Cheteshwar Pujara", "Ajinkya Rahane", "Shubman Gill", "Rohit Sharma", "Hanuma Vihari", "Ravindra Jadeja", "Ravichandran Ashwin", "KL Rahul", "Wriddhiman Saha", "Rishabh Pant", "Jasprit Bumrah", "Mohammed Shami", "Umesh Yadav", "Navdeep Saini", "Kuldeep Yadav", "Mohammed Siraj", "Shikar Dhawan", "Shreyas Iyer", "Manish Pandey", "Hardik Pandya", "Sanju Samson", "Yuzvendra Chahal", "Shardul Thakur", "Washington Sundar", "Deepak Chahar", "T Natarajan"],
-          "players_role":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
-          "players_credits":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-          "players_image":[304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,0],
-          "players_id":[304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,319,320,321,322,323,324,325,326,327,328,329,330,331,332]
-      }
-      ,
-      {
-          "team_name":"AUS",
-          "players_name":["Joe Burns", "Will Pucovski", "Steve Smith", "David Warner", "Travis Head", "Marnus Labuschange", "Michael Neser", "Cameron Green", "Tim Paine", "Mathew Wade", "Sean Abbott", "Pat Cummins", "Josh Hazlewood", "Nathon Lyon", "James Pattinson", "Mitchell Starc", "Mitchell Swepson", "Aaron Finch", "Moises Henriques", "Glenn Maxwell", "Marcus Stoinis", "Ashton Agar", "Daniel Sams", "Alex Carey", "Adam Zampa", "Andrew Tye"],
-          "players_role":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
-          "players_credits":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-          "players_image":[334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359],
-          "players_id":[334,335,336,337,338,339,340,341,342,343,344,345,346,347,348,349,350,351,352,353,354,355,356,357,358,359]
-
-      }    
-  ]
-  },
-   
-      
+    },  
      {
     "series_name":"Big Bash League",
     "series_code":"KFC_BBL",
@@ -248,32 +220,6 @@
   ]
   },
         {
-    "series_name":"NZ vs PAK",
-    "series_code":"NVP",
-    "number_teams":2,
-    "team_list":["NZ","PAK"],
-    "teams":  [
-      {
-          "team_name":"NZ",
-          "players_name":["G Phillips","T Seifert","M Guptill","D Conway","M Chapman","M Santner","J Neesham","S Kuggeleijn","I Sodhi","D Bracewell","B Tickner","J Duffy","T Astle","B Watling","T Blundell","K Williamson","R Taylor","T Latham","H Nicholls","W Young","D Mitchell","T Southee","N Wagner","T Boult","K Jamieson"],
-          "players_role":[1,1,2,2,2,3,3,3,4,4,4,4,4,1,1,2,2,2,2,2,3,4,4,4,4],
-          "players_credits":[9.5,8.5,10,9.5,8.5,9.5,9,8.5,8.5,8.5,8,8,8,8.5,8.5,10.5,9.5,9.5,9,8,8,9,9,9,8.5],
-          "players_image":[631,632,633,634,635,636,637,638,639,640,641,642,643,662,663,664,665,666,667,668,669,670,671,672,673],
-          "players_id":[631,632,633,634,635,636,637,638,639,640,641,642,643,662,663,664,665,666,667,668,669,670,671,672,673]
-      }
-      ,
-      {
-          "team_name":"PAK",
-          "players_name":["S Ahmed","M Rizwan","B Azam","H Talat","H Ali","Khushdil-Shah","A Shafiq","M Hafeez","I Wasim","Iftikhar-Ahmed","S Khan","W Riaz","S Afridi","U Qadir","M Hasnain","H Rauf","F Ashraf","M Khan","A Ali","H Sohail","S Masood","I Butt","A Ali","F Alam","Z Gohar","Y Shah","M Abbas","Nassem Shah","S Khan"],
-          "players_role":[1,1,2,2,2,2,2,3,3,3,3,4,4,4,4,4,4,4,2,2,2,2,2,3,3,4,4,4,4],
-          "players_credits":[9,8.5,10.5,8.5,8.5,8,8,9.5,8.5,8.5,8.5,9,9,8.5,8.5,8.5,8.5,8,9,8.5,8.5,9,8,8,8,9,8.5,8,8],
-          "players_image":[644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,674,675,676,677,678,679,680,681,682,683,684],
-          "players_id":[644,645,646,647,648,649,650,651,652,653,654,655,656,657,658,659,660,661,674,675,676,677,678,679,680,681,682,683,684]
-
-      }    
-  ]
-  },
-        {
     "series_name":"KFC SUPER SMASH MEN",
     "series_code":"SS_M",
     "number_teams":6,
@@ -329,6 +275,31 @@
         "players_id":[1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023]
       }
   ]
-  }
+  },
+        {
+    "series_name": "SA-W VS PK-W", 
+    "series_code": "SVPW",
+     "number_teams": 2, 
+     "team_list": ["SA-W", "PK-W"], 
+     "teams": [
+         {
+    "team_name": "SA-W", 
+    "players_name": ["T Brits", "T Chetty", "S Jafta", "F Tunnicliffe", "L Wolvaardt", "L Lee", "L Goodall", "MD Preez", "A Bosch", "M Kapp", "N Klerk", "S Luus", "N Mlaba", "A Khaka", "N Shangase", "T Sekhukhune", "S Ismail", "M Klaas"],
+     "players_role": [1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4], 
+     "players_credits": [8.0, 8.5, 8.0, 8.0, 10.0, 9.5, 8.0, 9.0, 8.0, 10.0, 8.5, 9.0, 8.0, 8.5, 8.0, 8.0, 9.5, 8.5], 
+     "players_image": [0, 1058, 0, 0, 1061, 1062, 0, 1064, 0, 1066, 1067, 1068, 0, 1070, 0, 1072, 1073, 1074], 
+     "players_id": [1057, 1058, 1059, 1060, 1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1072, 1073, 1074]
+    }, 
+     {
+         "team_name": "PK-W",
+         "players_name": ["S Nawaz", "A Zafar", "O Sohail", "M Ali", "A Naseem", "N Khan", "J Khan", "K Imtiaz", "N Dar", "A Riaz", "S Shah", "S Iqbal", "A Anwar", "F Sana", "N Sandhu", "D Baig", "A Amin"], 
+         "players_role": [1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4], 
+         "players_credits": [8.5, 8.5, 8.5, 8.5, 8.0, 9.0, 9.5, 8.5, 9.0, 9.0, 8.0, 8.5, 8.5, 8.0, 8.5, 9.0, 8.5], 
+         "players_image": [1075, 1076, 1077, 1078, 0, 1080, 1081, 1082, 1083, 1084, 0, 0, 0, 0, 1089, 1090, 1091], 
+         "players_id": [1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1086, 1087, 1088, 1089, 1090, 1091]
+         }
+    ]
+},
+    {"series_name": "WI VS BAN", "series_code": "WVB", "number_teams": 2, "team_list": ["WI", "BAN"], "teams": [{"team_name": "WI", "players_name": ["JD Silva", "J Hamilton", "Kjorn ottley", "R Powell", "S Ambris", "N Bonner", "J Mohammed", "R Reifer", "K Mayers", "A McCarthy", "KJ Harding", "C Holder", "A Joseph", "A Hosein"], "players_role": [1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4], "players_credits": [8.5, 8.0, 8.0, 9.0, 9.0, 8.5, 9.0, 9.0, 8.5, 8.5, 8.0, 8.0, 9.0, 8.5], "players_image": [1025, 1026, 0, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038], "players_id": [1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037, 1038]}, {"team_name": "BAN", "players_name": ["M Rahim", "L Das", "T Iqbal", "M Mithun", "N Hossain-Shanto", "S Sarkar", "Mahmudullah", "SA Hasan", "Mahedi-Hasan", "M Saifuddin", "A Hossain", "Shoriful-Islam", "H Mahmud", "M Hasan-Miraz", "R Hossain", "T Ahmed", "M Rahman", "T Islam"], "players_role": [1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4], "players_credits": [10.0, 9.0, 9.5, 8.5, 8.0, 8.5, 9.0, 10.0, 8.0, 9.0, 8.0, 8.0, 8.0, 8.5, 8.5, 8.5, 9.0, 8.0], "players_image": [1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 0, 1051, 1052, 1053, 1054, 1055, 1056], "players_id": [1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056]}]}
   ]
 }
