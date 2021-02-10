@@ -1,78 +1,5 @@
 {
     "req_data" :[
-    {
-      "series_name":"WBBL League",
-      "series_code":"WBBL",
-      "number_teams":8,
-      "team_list":["MS","AS","BH","HH","MR","PS","SS","ST"],
-      "teams": [
-        {
-            "team_name":"MS",
-            "players_name":["Katherine Brunt", "Lucy Cripps", "Sophie Day", "Bhavi Devchand", "Nicole Faltum", "Holly Ferling", "Tess Flintoff", "Georgia Gall", "Alana King", "Meg Lanning", "Erin Osborne", "Mignon du Preez", "Nat Sciver", "Annabel Sutherland", "Elyse Villani"],
-            "players_role":[4, 2, 2, 3, 1, 4, 4, 4, 4, 2, 3, 2, 3, 3, 2],
-            "players_credits":[9, 8, 7.5, 8, 8, 8.5, 8, 7.5, 8, 10, 9, 9.5, 10, 8.5, 9],
-            "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-            "players_id":[187,188,189,190,191,192,193,194,195,196,197,198,199,200,201]
-        }
-        ,
-        {
-            "team_name":"AS",
-            "players_name":[" Darcie Brown", "Suzie 2es", "Sarah Coyte", "Ellie Falconer", "Amanda-Jade Wellington", "Katie Mack", "Tegan McPharlin", "Tahlia McGrath", "Annie ONeil", "Bridget Patterson", "Madeline Penna", "Alex Price", "Megan Schutt", "Stafanie Taylor", "Laura Wolvaardt"],
-            "players_role":[4, 3, 4, 4, 4, 2, 1, 3, 2, 2, 4, 4, 4, 3, 2],
-            "players_credits":[8, 9.5, 9, 8, 8.5, 8.5, 8.5, 9, 8, 9, 8.5, 8, 9.5, 9.5, 8.5],
-            "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-            "players_id":[202,203,204,205,206,207,208,209,210,211,212,213,214,215,216]
-        },
-        {
-          "team_name":"BH",
-          "players_name":["Maddy Green", "Nicola Hancock", "Grace Harris", "Laura Harris", "Mikayla Hinkley", "Jess Jonassen", "Amelia Kerr", "Delissa Kimmince", "Nadine de Klerk", "Charli Knott", "Lilly Mills", "Georgia Prestwidge", "Georgia Redmayne", "Courtney Sippel", "Georgia Voll"],
-          "players_role":[2, 4, 3, 2, 2, 3, 3, 4, 3, 2, 3, 4, 1, 4, 2],
-          "players_credits":[9, 8, 9.5, 8.5, 8, 10, 9.5, 9, 8.5, 8, 8, 8.5, 8.5, 8, 8.5],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-           "players_id":[217,218,219,220,221,222,223,224,225,226,227,228,229,230,231]
-        },
-        {
-          "team_name":"HH",
-          "players_name":["Nicola Carey", "Corinne Hall", "Brooke Hepburn", "Erica Kershaw", "Hayley Matthews", "Sasha Moloney", "Rachel Priest", "Chloe Rafferty", "Amy Smith", "Naomi Stalenberg", "Emma Thompson", "Chloe Tryon", "H Jensen", "Belinda Vakarewa"],
-          "players_role":[3, 2, 4, 1, 3, 2, 1, 4, 4, 2, 2, 3, 4, 4],
-          "players_credits":[9.5, 9, 8, 8, 9, 8, 8.5, 8.5, 8, 9, 8, 9, 9, 9],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-           "players_id":[232,233,234,235,236,237,238,239,240,241,242,243,244,245]
-        },
-        {
-          "team_name":"MR",
-          "players_name":["Makinley Blows", "Maitlan Brown", "Josie Dooley", "Erin Fazackerley", "Ella Hayward", "Lizelle Lee", "Carly Leeson", "Sophie Molineux", "Courtney Neale", "Amy Satterthwaite", "Molly Strano", "Lea Tahuhu", "Georgia Wareham", "Courtney Webb"],
-          "players_role":[3, 4, 1, 2, 3, 1, 4, 3, 4, 2, 4, 4, 4, 2],
-          "players_credits":[8, 8.5, 9.5, 9, 8, 8.5, 8, 9, 8, 9.5, 9.5, 8.5, 8.5, 8.5],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-           "players_id":[246,247,248,249,250,251,252,253,254,255,256,257,258,259]
-        },
-        {
-          "team_name":"PS",
-          "players_name":["Megan Banting", "Jemma Barsby", "Samantha Betts", "Nicole Bolton", "Mathilda Carmichael", "Piepa Cleary", "Sophie Devine", "Sarah Glenn", "Heather Graham", "Amy Jones", "Beth Mooney", "Taneale Peschel", "Chloe Piparo", "Georgia Wyllie", "Emma King"],
-          "players_role":[1, 4, 4, 3, 2, 4, 3, 4, 3, 1, 2, 4, 2, 2, 4],
-          "players_credits":[8, 8, 8.5, 8.5, 8, 8, 11, 9, 8.5, 9.5, 10.5, 8.5, 8, 8, 8],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-          "players_id":[260,261,262,263,264,265,266,267,268,269,270,271,272,273,274]
-        },
-        {
-          "team_name":"SS",
-          "players_name":["Sarah Aley", "Erin Burns", "Stella Campbell", "Lauren Cheatle", "Maddy Darke", "Ashleigh Gardner", "Lisa Griffith", "Alyssa Healy", "Jodie Hicks", "Emma Hughes", "Marizanne Kapp", "Ellyse Perry", "Angela Reakes", "Hayley Silver-Holmes", "Dane van Niekerk"],
-          "players_role":[4, 2, 4, 4, 1, 2, 4, 1, 2, 4, 3, 3, 2, 4, 3],
-          "players_credits":[8.5, 8.5, 8, 8, 8, 9, 8, 10, 8, 8, 9.5, 10.5, 8, 8.5, 9.5],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-           "players_id":[275,276,277,278,279,280,281,282,283,284,285,286,287,288,289]
-        },
-        {
-          "team_name":"ST",
-          "players_name":["Sam 2es", "Tammy Beaumont", "Hannah Darlington", "Rachael Haynes", "Saskia Horley", "Shabnim Ismail", "Anika Learoyd", "Phoebe Litchfield", "Heather Knight", "Kate Peterson", "Lauren Smith", "Rachel Trenaman", "Tahlia Wilson", "Sammy-Jo Johnson"],
-          "players_role":[4, 1, 4, 2, 3, 4, 2, 2, 2, 4, 4, 3, 1, 3],
-          "players_credits":[8.5, 9, 8.5, 9.5, 8, 9.5, 8, 8.5, 10, 8, 8, 8, 8.5, 8.5],
-          "players_image":[0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-           "players_id":[290,291,292,293,294,295,296,297,298,299,300,301,302,303]
-        }
-    ]
-    },
      {
     "series_name":"Big Bash League",
     "series_code":"KFC_BBL",
@@ -299,7 +226,38 @@
                     }
         ]
     },
-        {"series_name": "IND VS ENG", "series_code": "IVE", "number_teams": 2, "team_list": ["IND", "ENG"], "teams": [{"team_name": "PD", "players_name": ["R Pant", "W Saha", "L Rahul", "S Gill", "H Pandya", "R Sharma", "M Agarwal", "C Pujara", "A Rahane", "V Kohli", "A Patel", "R Ashwin", "W Sundar", "I Sharma", "M Siraj", "S Thakur", "K Yadav", "J Bumrah"], "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4], "players_credits": [9.0, 8.0, 8.5, 8.5, 8.5, 9.0, 8.5, 9.5, 9.0, 10.0, 8.0, 9.5, 8.0, 8.5, 8.0, 8.0, 8.0, 9.0], "players_image": [1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617], "players_id": [1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617]}, {"team_name": "QAL", "players_name": ["B Foakes", "J Buttler", "O Pope", "Z Crawley", "D Lawrence", "R Burns", "D Sibley", "J Root", "M Ali", "B Stokes", "C Woakes", "J Anderson", "D Bess", "J Archer", "S Broad", "J Leach", "O Stone"], "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4, 4], "players_credits": [8.0, 9.0, 8.5, 8.5, 8.0, 8.5, 8.5, 10.0, 8.5, 9.5, 8.5, 9.0, 8.0, 8.5, 9.0, 8.5, 8.0], "players_image": [1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634], "players_id": [1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}]},
-          {"series_name": "SA VS PAK", "series_code": "SVP", "number_teams": 2, "team_list": ["SA", "PAK"], "teams": [{"team_name": "SA", "players_name": ["R Rickelton", "H Klaasen", "J Snyman", "D Miller", "J Malan", "P Biljon", "R Hendricks", "D Pretorius", "A Phehlukwayo", "JJ Smuts", "G Linde", "G Stuurman", "N Burger", "O Cele", "J Dala", "L Sipamla", "B Fortuin", "T Shamsi"], "players_role": [1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4], "players_credits": [8.0, 9.5, 8.0, 9.5, 8.5, 8.0, 9.0, 8.5, 9.0, 8.5, 8.5, 8.0, 8.0, 8.0, 8.5, 8.5, 8.5, 9.0], "players_image": [0, 2401, 0, 2403, 2404, 2405, 2406, 2407, 2408, 2409, 0, 0, 0, 0, 0, 0, 0, 2417], "players_id": [2400, 2401, 2402, 2403, 2404, 2405, 2406, 2407, 2408, 2409, 2410, 2411, 2412, 2413, 2414, 2415, 2416, 2417]}, {"team_name": "PAK", "players_name": ["M Rizwan", "S Ahmed", "K Shah", "Iftikhar-Ahmed", "B Azam", "H Ali", "A Ali", "H Talat", "Amad-Butt", "F Ashraf", "D Aziz", "M Nawaz", "A Yamin", "H Rauf", "Z Mahmood", "M Hasnain", "S Afridi", "U Qadir", "Hasan-Ali", "Z Gohar"], "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4], "players_credits": [9.0, 8.5, 8.5, 8.0, 11.0, 8.5, 8.5, 8.0, 8.0, 9.0, 8.0, 8.5, 8.0, 9.0, 8.0, 8.0, 9.5, 8.5, 8.5, 8.0], "players_image": [2418, 2419, 2420, 2421, 2422, 2423, 2424, 2425, 2426, 2427, 0, 2429, 2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437], "players_id": [2418, 2419, 2420, 2421, 2422, 2423, 2424, 2425, 2426, 2427, 2428, 2429, 2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437]}]}
+    {"series_name": "IND VS ENG",
+     "series_code": "IVE", 
+     "number_teams": 2, "team_list": 
+     ["IND", "ENG"], 
+     "teams": [{"team_name": "IND", "players_name": ["R Pant", "W Saha", "L Rahul", "S Gill", "H Pandya", "R Sharma", "M Agarwal", "C Pujara", "A Rahane", "V Kohli", "A Patel", "R Ashwin", "W Sundar", "I Sharma", "M Siraj", "S Thakur", "K Yadav", "J Bumrah"],
+                "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4],
+                "players_credits": [9.0, 8.0, 8.5, 8.5, 8.5, 9.0, 8.5, 9.5, 9.0, 10.0, 8.0, 9.5, 8.0, 8.5, 8.0, 8.0, 8.0, 9.0],
+                "players_image": [1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617],
+                "players_id": [1600, 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617]},
+               {"team_name": "ENG", "players_name": ["B Foakes", "J Buttler", "O Pope", "Z Crawley", "D Lawrence", "R Burns", "D Sibley", "J Root", "M Ali", "B Stokes", "C Woakes", "J Anderson", "D Bess", "J Archer", "S Broad", "J Leach", "O Stone"], 
+                "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 4, 4], 
+                "players_credits": [8.0, 9.0, 8.5, 8.5, 8.0, 8.5, 8.5, 10.0, 8.5, 9.5, 8.5, 9.0, 8.0, 8.5, 9.0, 8.5, 8.0], 
+                "players_image": [1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634],
+                "players_id": [1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}]},
+        
+    {
+        "series_name": "SA VS PAK", 
+     "series_code": "SVP", 
+     "number_teams": 2, 
+     "team_list": ["SA", "PAK"],
+     "teams": [{"team_name": "SA",
+     "players_name": ["R Rickelton", "H Klaasen", "J Snyman", "D Miller", "J Malan", "P Biljon", "R Hendricks", "D Pretorius", "A Phehlukwayo", "JJ Smuts", "G Linde", "G Stuurman", "N Burger", "O Cele", "J Dala", "L Sipamla", "B Fortuin", "T Shamsi"],
+                "players_role": [1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4],
+                "players_credits": [8.0, 9.5, 8.0, 9.5, 8.5, 8.0, 9.0, 8.5, 9.0, 8.5, 8.5, 8.0, 8.0, 8.0, 8.5, 8.5, 8.5, 9.0],
+                "players_image": [0, 2401, 0, 2403, 2404, 2405, 2406, 2407, 2408, 2409, 0, 0, 0, 0, 0, 0, 0, 2417], 
+                "players_id": [2400, 2401, 2402, 2403, 2404, 2405, 2406, 2407, 2408, 2409, 2410, 2411, 2412, 2413, 2414, 2415, 2416, 2417]}, 
+               {
+                   "team_name": "PAK",
+                   "players_name": ["M Rizwan", "S Ahmed", "K Shah", "Iftikhar-Ahmed", "B Azam", "H Ali", "A Ali", "H Talat", "Amad-Butt", "F Ashraf", "D Aziz", "M Nawaz", "A Yamin", "H Rauf", "Z Mahmood", "M Hasnain", "S Afridi", "U Qadir", "Hasan-Ali", "Z Gohar"], 
+                   "players_role": [1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4], 
+                   "players_credits": [9.0, 8.5, 8.5, 8.0, 11.0, 8.5, 8.5, 8.0, 8.0, 9.0, 8.0, 8.5, 8.0, 9.0, 8.0, 8.0, 9.5, 8.5, 8.5, 8.0], 
+                   "players_image": [2418, 2419, 2420, 2421, 2422, 2423, 2424, 2425, 2426, 2427, 0, 2429, 2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437],
+                   "players_id": [2418, 2419, 2420, 2421, 2422, 2423, 2424, 2425, 2426, 2427, 2428, 2429, 2430, 2431, 2432, 2433, 2434, 2435, 2436, 2437]}]}
   ]
 }
